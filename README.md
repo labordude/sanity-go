@@ -59,7 +59,7 @@ go get github.com/labordude/sanity-go
 
 ## Requirements
 
-Go 1.13 or later.
+Go 1.23 or later.
 
 # License
 
